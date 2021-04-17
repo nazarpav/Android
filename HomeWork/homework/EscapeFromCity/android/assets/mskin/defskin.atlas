@@ -1,0 +1,27 @@
+
+defskin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_normal
+  rotate: false
+  xy: 1, 1374
+  size: 1117, 256
+  orig: 1117, 256
+  offset: 0, 0
+  index: -1
+button_select
+  rotate: false
+  xy: 1, 1116
+  size: 1117, 256
+  orig: 1117, 256
+  offset: 0, 0
+  index: -1
+pixelFNT
+  rotate: false
+  xy: 1120, 1118
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

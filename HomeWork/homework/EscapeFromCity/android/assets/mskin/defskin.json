@@ -1,0 +1,71 @@
+{
+    "BitmapFont": {
+        "pixelFNT": {
+            "file": "pixelFNT.fnt"
+        }
+    },
+    "Color": {
+        "RGBA_0_0_0_255": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+        },
+        "RGBA_42_27_9_255": {
+            "r": 0.16666669,
+            "g": 0.10744085,
+            "b": 0.03833334,
+            "a": 1
+        }
+    },
+    "ButtonStyle": {
+        "default": {
+            "up": "button_normal",
+            "down": "button_select",
+            "over": "button_normal",
+            "checked": "button_normal",
+            "checkedOver": "button_normal",
+            "disabled": "button_select",
+            "pressedOffsetX": 2,
+            "pressedOffsetY": 2,
+            "unpressedOffsetX": -1,
+            "unpressedOffsetY": -1,
+            "checkedOffsetX": 2,
+            "checkedOffsetY": 2
+        }
+    },
+    "LabelStyle": {
+        "default": {
+            "font": "pixelFNT",
+            "fontColor": "RGBA_42_27_9_255"
+        }
+    },
+    "TextButtonStyle": {
+        "default": {
+            "font": "pixelFNT",
+            "fontColor": "RGBA_42_27_9_255",
+            "downFontColor": "RGBA_0_0_0_255",
+            "overFontColor": "RGBA_42_27_9_255",
+            "checkedFontColor": "RGBA_0_0_0_255",
+            "checkedOverFontColor": "RGBA_0_0_0_255",
+            "disabledFontColor": "RGBA_0_0_0_255",
+            "up": "button_normal",
+            "down": "button_select",
+            "over": "button_normal",
+            "checked": "button_normal",
+            "checkedOver": "button_normal",
+            "disabled": "button_select",
+            "pressedOffsetX": 2,
+            "pressedOffsetY": 2,
+            "unpressedOffsetX": -1,
+            "unpressedOffsetY": -1,
+            "checkedOffsetX": 2,
+            "checkedOffsetY": 2
+        }
+    },
+    "TextTooltipStyle": {
+        "default": {
+            "label": "default"
+        }
+    }
+}
